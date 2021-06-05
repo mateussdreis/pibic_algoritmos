@@ -81,6 +81,7 @@ for (i in 1:length(beta)) {
   }
 }
 
+
 return(as.data.frame(result_erro))
 }
 
